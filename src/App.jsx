@@ -15,7 +15,7 @@ function App() {
                 <div className="general">
                   <label>General</label>
                   <span className="nav-icon active">
-                    <img className="icon active-icon" src="assets/icons/dashboards.png" alt="icon" />
+                    <img className="icon active-icon" src="/srcassets/icons/dashboards.png" alt="icon" />
                     Dashboard
                   </span>
 
